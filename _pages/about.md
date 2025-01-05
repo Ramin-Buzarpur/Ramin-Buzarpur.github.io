@@ -17,4 +17,4 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi, I'm Ramin Buzarpur and I am a Computer Engineering student at IUST . I am passionate about robotics, artificial intelligence, and data mining.
+Hi, I'm Ramin Buzarpur and I am a Computer Engineering student at IUST . I am passionate about robotics, artificial intelligence, and data mining .
