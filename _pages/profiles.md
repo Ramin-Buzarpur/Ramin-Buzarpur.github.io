@@ -1,6 +1,6 @@
 ---
 layout: Bio
-permalink: /Bio/
+permalink: /people/
 title: Bio
 description: Biography
 nav: true
