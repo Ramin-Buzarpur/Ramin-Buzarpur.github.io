@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: ramin.jepg
+  image: prof_pic_color.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
